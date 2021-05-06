@@ -1,0 +1,8 @@
+Grad,Drzava
+Sarajevo, BiH
+Cazin, BiH
+Ljubljana, Slovenija
+Bec, Austrija
+Rim, Italija
+Zagreb,Hrvatska
+Los Angeles, USA
